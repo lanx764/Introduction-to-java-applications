@@ -1,4 +1,4 @@
-public interface CafeReceipt {
+public class CafeReceipt {
     public static void main(String[] args) {
         double subtotal = 17.47;
         double vat = (7.5 / 100) * subtotal;
